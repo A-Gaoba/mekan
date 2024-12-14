@@ -1,0 +1,40 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="200"
+  height="60"
+  viewBox="0 0 200 60"
+  fill="none"
+>
+  <!-- Letter M -->
+  <path
+    d="M10 10V50H15V30L25 50H30L40 30V50H45V10H40L25 40L10 10Z"
+    fill="#101828"
+  />
+
+  <!-- Letter E -->
+  <path
+    d="M55 10V50H75V45H60V35H75V30H60V15H75V10H55Z"
+    fill="#101828"
+  />
+
+  <!-- Letter K -->
+  <path
+    d="M90 10V50H95V30L110 50H115L100 30L115 10H110L95 30V10H90Z"
+    fill="#101828"
+  />
+
+  <!-- Letter A -->
+  <path
+    d="M140 50H150L160 10H155L150 30H140L135 10H130L140 50ZM145 35H150L155 50H145V35Z"
+    fill="#101828"
+  />
+
+  <!-- Letter N -->
+  <path
+    d="M170 10V50H175L190 20V50H195V10H190L175 40V10H170Z"
+    fill="#101828"
+  />
+
+  <!-- Circle Decoration -->
+  <circle cx="195" cy="20" r="10" fill="#7F56D9" />
+</svg>
