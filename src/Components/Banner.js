@@ -11,7 +11,8 @@ const Banner = () => {
           autoPlay
           loop
           muted
-          className="absolute top-0 left-0 w-full h-full object-cover -mt-20" >
+          className="absolute top-0 left-0 w-full h-full object-cover -mt-20"
+        >
           <source src={bg} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -22,8 +23,8 @@ const Banner = () => {
         {/* Centered Text Content */}
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-6 lg:px-12">
           <h1 className="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-            <span className="text-violet-700">Rent</span> Your Dream House
-            with us.
+            <span className="text-violet-700">Rent</span> Your Dream House with
+            us.
           </h1>
           <p className="text-lg lg:text-xl max-w-[480px]">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quae
