@@ -12,11 +12,20 @@ const Header = () => {
           </h1>
         </Link>
 
+        <div className=" flex justify-center items-center gap-6">
+          <Link to="/" className="hover:text-violet-900 transition text-white">
+            Home
+          </Link>
+          <Link to="/about" className="hover:text-violet-900 transition text-white">
+            About
+          </Link>
+          <Link to="/services" className="hover:text-violet-900 transition text-white">
+            Services
+          </Link>
+        </div>
+
         <div className="flex items-center gap-6">
-          <Link
-            to=""
-            className="hover:text-violet-900 transition text-white"
-          >
+          <Link to="" className="hover:text-violet-900 transition text-white">
             Login
           </Link>
           <Link
